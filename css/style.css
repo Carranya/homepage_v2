@@ -1,3 +1,6 @@
+@import "home.css";
+@import "contact.css";
+
 body {
     font-family: Verdana;
 }
@@ -13,17 +16,24 @@ body {
 /* Contents */
 
 #content {
-    text-align: center;
-    background-color: white;
-    opacity: 0.6;
+    text-align: justify;
+    background-color: #D0AAF3;
     border: 10px solid black;
+    padding: 1em;
     position: absolute;
     top: 10%;
     left: 10%;
     width: 80%;
     height: 80%;
     transition: transform 1s;
+    overflow: scroll;
+    overflow: overlay;
+}
 
+
+
+#content h2 {
+    text-align: center;
 }
 
 .topleft {
@@ -71,25 +81,25 @@ body {
 .topleft-label {
     right: 0;
     bottom: 0;
-    background: white url(img/home.png) 50% 50% / 25px 25px no-repeat;
+    background: #D0AAF3 url(../img/menu/home.png) 50% 50% / 25px 25px no-repeat;
 }
 
 .topright-label {
     left: 0;
     bottom: 0;
-    background: white url(img/projects.png) 50% 50% / 25px 25px no-repeat;
+    background: #D0AAF3 url(../img/menu/project.png) 50% 50% / 25px 25px no-repeat;
 }
 
 .bottomleft-label {
     right: 0;
     top: 0;
-    background: white url(img/about.png) 50% 50% / 25px 25px no-repeat;
+    background: #D0AAF3 url(../img/menu/about.png) 50% 50% / 25px 25px no-repeat;
 }
 
 .bottomright-label {
     left: 0;
     top: 0;
-    background: white url(img/contact.png) 50% 50% / 25px 25px no-repeat;
+    background: #D0AAF3 url(../img/menu/contact.png) 50% 50% / 25px 25px no-repeat;
 }
 
 

@@ -1,0 +1,9 @@
+.home {
+    display: flex;
+    margin: 1em;
+}
+
+.home img {
+    margin: 1em;
+    border: 1px solid black;
+}
