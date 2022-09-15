@@ -1,0 +1,100 @@
+body {
+    font-family: Verdana;
+}
+
+.main {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: blueviolet;
+}
+
+/* Contents */
+
+#content {
+    text-align: center;
+    background-color: white;
+    opacity: 0.6;
+    border: 10px solid black;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+    transition: transform 1s;
+
+}
+
+.topleft {
+    transform: translate(-100%, -100%);
+
+}
+
+.topright {
+    transform: translate(100%, -100%);
+}
+
+.bottomleft {
+    transform: translate(-100%, 100%);
+}
+
+.bottomright {
+    transform: translate(100%, 100%);
+}
+
+/* Checked */
+
+.topleft-check:checked + .topleft {
+    transform: translate(0, 0);
+}
+
+.topright-check:checked + .topright {
+    transform: translate(0, 0);
+}
+
+.bottomleft-check:checked + .bottomleft {
+    transform: translate(0, 0);
+}
+
+.bottomright-check:checked + .bottomright {
+    transform: translate(0, 0);
+}
+
+/* Label */
+#check-label {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
+
+.topleft-label {
+    right: 0;
+    bottom: 0;
+    background: white url(img/home.png) 50% 50% / 25px 25px no-repeat;
+}
+
+.topright-label {
+    left: 0;
+    bottom: 0;
+    background: white url(img/projects.png) 50% 50% / 25px 25px no-repeat;
+}
+
+.bottomleft-label {
+    right: 0;
+    top: 0;
+    background: white url(img/about.png) 50% 50% / 25px 25px no-repeat;
+}
+
+.bottomright-label {
+    left: 0;
+    top: 0;
+    background: white url(img/contact.png) 50% 50% / 25px 25px no-repeat;
+}
+
+
+
+.main input {
+    display: none;
+}
+
