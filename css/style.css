@@ -1,12 +1,14 @@
 @import "home.css";
 @import "contact.css";
 @import "project.css";
+@import "about.css";
 
 body {
     font-family: Verdana;
 }
 
 .main {
+    text-align: center;
     position: absolute;
     width: 100%;
     height: 100%;

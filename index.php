@@ -7,6 +7,7 @@
 </head>
 <body>
     <div class="main">
+        <h1>Karin's Homepage</h1>
         <input type='radio' name='menu' id='topleft-check' class='topleft-check' checked='checked'>
         <div class='topleft' id='content'>
             <label class='topleft-label' for='topleft-check' id='check-label'></label>
