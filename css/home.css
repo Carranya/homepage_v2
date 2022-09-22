@@ -1,9 +1,12 @@
-.home {
-    display: flex;
+#home {
+    text-align: center;
     margin: 1em;
 }
 
-.home img {
-    margin: 1em;
-    border: 1px solid black;
+#homeTech{
+    text-align: center;
+}
+
+#homeTech img{
+    width: 100px;
 }

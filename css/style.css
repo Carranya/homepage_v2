@@ -117,3 +117,9 @@ body {
     display: none;
 }
 
+.showPic{
+    float: right;
+    border: 1px solid black;
+    width: 300px;
+    margin: 0.3em
+}
