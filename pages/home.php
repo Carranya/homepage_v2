@@ -1,5 +1,4 @@
 <div id="home">
-
     <h2 id="homeTitle">Herzlich Willkommen!</h2>
     <img src="img/karin2.jpg" alt="Karin Giang"  class="showPic"></img>
 

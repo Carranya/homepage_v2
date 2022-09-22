@@ -1,7 +1,17 @@
-.projects{
+#projects{
+    text-align: justify;
+}
+
+#projectsTitle{
     text-align: center;
 }
 
-.projects img{
+.projectsContent{
+    border:1px solid black;
+    padding:10px;
+    margin: 10px;
+}
+
+.projectsContent img{
     width: 50%;
 }
