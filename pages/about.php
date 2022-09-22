@@ -1,5 +1,5 @@
 <div class="about">
-    <h2>Über mich</h2>
+    <h2 id="aboutTitle">Über mich</h2>
     <p>Ich bin in Frauenfeld geboren und aufgewachsen in Wängi TG.
     Aufgewachsen bin ich in einer chinesischen Familie. Aber ich selbst fühle mich ganz und gar nicht wie eine Chinesin. Mein älterer Bruder und meine ältere Schwester haben auch schon Familien gegründet. Ich bin seit 2010 glücklich verheiratet und habe eine Tochter.</p>
 

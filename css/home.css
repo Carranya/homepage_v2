@@ -1,6 +1,10 @@
 #home {
-    text-align: center;
+    text-align: justify;
     margin: 1em;
+}
+
+#homeTitle{
+    text-align: center;
 }
 
 #homeTech{

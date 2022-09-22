@@ -1,3 +1,7 @@
-.about h3 {
+#about{
+    text-align: justify;
+}
+
+#aboutTitle {
     text-align: center;
 }

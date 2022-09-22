@@ -1,8 +1,11 @@
-.contact {
-    display: flex;
+#contact{
+    text-align: justify;
 }
 
-#karinpic {
-    margin: 1em;
-    border: 1px solid black;
+#contactTitle {
+    text-align: center
+}
+
+#contactContent{
+    width: 60%;
 }
