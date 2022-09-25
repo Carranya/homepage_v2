@@ -29,7 +29,7 @@
         <div class='bottomleft'id='content'>
             <label class='bottomleft-label' for='bottomleft-check' id='check-label'></label>
             <?php
-                include "pages/about.php";
+                include "pages/webpages.php";
             ?>
         </div>
 

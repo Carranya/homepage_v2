@@ -1,5 +1,5 @@
 <div id="projects">
-    <h2 id="projectsTitle">Meine Projekte</h2>
+    <h2 class="classTitle">Meine Projekte</h2>
 
 
     <p>In meiner Freizeit programmiere ich sehr gerne.<br>

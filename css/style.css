@@ -1,10 +1,10 @@
 @import "home.css";
 @import "contact.css";
 @import "project.css";
-@import "about.css";
 
 body {
     font-family: Verdana;
+    text-align: justify;
 }
 
 .main {
@@ -104,7 +104,7 @@ body {
 .bottomleft-label {
     right: 0;
     top: 0;
-    background: #D0AAF3 url(../img/menu/about.png) 50% 50% / 25px 25px no-repeat;
+    background: #D0AAF3 url(../img/menu/webpages.png) 50% 50% / 25px 25px no-repeat;
 }
 
 .bottomright-label {
@@ -117,9 +117,14 @@ body {
     display: none;
 }
 
+.classTitle {
+    text-align: center;
+}
+
 .showPic{
     float: right;
     border: 1px solid black;
+    border-radius: 10px;
     width: 300px;
-    margin: 0.3em
+    margin: 1em
 }

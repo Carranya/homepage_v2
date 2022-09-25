@@ -1,5 +1,5 @@
 <div id="home">
-    <h2 id="homeTitle">Herzlich Willkommen!</h2>
+    <h2 class="classTitle">Herzlich Willkommen!</h2>
     <img src="img/karin2.jpg" alt="Karin Giang"  class="showPic"></img>
 
     <p>
@@ -24,4 +24,9 @@
         <img src='img/tech/mysql.png'></img>
         <img src='img/tech/javascript.png'></img>
     </p>
+    <br><br>
+    <p>Ich bin offiziell noch männlich mit der Name Martin.
+    Jedoch in der Freizeit werden meine Freunde mich immer mehr als weiblich ansprechen und ansehen.
+    Momentan bin ich noch sehr beschäftigt mit der beruflichen Wandel. Sobald ich mit der neuen Branche stabilisiert habe, werde ich mit der Hormontheraphie beginnen.</p>
+
 </div>
