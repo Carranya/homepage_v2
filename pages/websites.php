@@ -1,4 +1,4 @@
-<div class="webpages">
+<div class="websites">
     <h2 class="classTitle">Webseiten Vorschläge</h2>
 
 
