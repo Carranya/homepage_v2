@@ -1,4 +1,5 @@
 .projectsContent{
+    text-align: center;
     border:1px solid black;
     padding:10px;
     margin: 10px;
@@ -6,4 +7,8 @@
 
 .projectsContent img{
     width: 50%;
+}
+
+.projectContent p {
+    text-align: justify;
 }

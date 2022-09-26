@@ -1,7 +1,7 @@
 <div class="projectsContent">
-<center><a href=''><b><u>Voki</u></b></a><br></center>
+<a href=''><b><u>Voki</u></b></a><br>
 <br>
-<center><a href=''><img src="img/screenshots/voki.jpg"></img></a></center>
+<a href=''><img src="img/screenshots/voki.jpg"></img></a>
 <p>Ein Programm zum Vokabular lernen.<br>
 200 Wörter deutsch/japanisch sowie Demo Version mit 20 Wörter deutsch/englisch sind vorinstalliert.<br>
 Weitere Wörter-Pakete folgen erscheinen in Kürze.<br>

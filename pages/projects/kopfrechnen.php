@@ -1,7 +1,7 @@
 <div class="projectsContent">
-<center><a href=''><b><u>Kopfrechnen</u></b></a><br></center>
+<a href=''><b><u>Kopfrechnen</u></b></a><br>
 <br>
-<center><a href=''><img src="img/screenshots/kopfrechnen.jpg"></img></a></center>
+<a href=''><img src="img/screenshots/kopfrechnen.jpg"></img></a>
 <p>Ein Tool zum Kopfrechnen üben für Kinder und Erwachsene.<br>
 4 Stufen einstellbar.<br>
 Es wird 10 zufallsgerenderte Aufgaben generiert.<br>
