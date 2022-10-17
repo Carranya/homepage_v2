@@ -84,6 +84,11 @@ body {
 }
 
 /* Label */
+
+label {
+    cursor: pointer;
+}
+
 #check-label {
     position: absolute;
     width: 60px;
