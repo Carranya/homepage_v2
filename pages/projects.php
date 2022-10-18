@@ -19,7 +19,7 @@ Bisher habe ich PERL, PHP, MySQL, HTML, CSS und Javascript angeeignet.
         include "pages/projects/bombmemory.php";
         include "pages/projects/voki.php";
         include "pages/projects/kopfrechnen.php";
-        /*include "pages/projects/slidepuzzle.php";
-        include "pages/projects/codecracker.php"; */
+        include "pages/projects/slidepuzzle.php";
+        include "pages/projects/codecracker.php";
     ?>
 </div>
