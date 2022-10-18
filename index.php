@@ -2,45 +2,22 @@
 <html lang="de">
 <head>
     <meta charset="utf-8">
-    <title>Karin's Homepage</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=egde">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="menu.js"></script>
+    <title>Karin's Homepage</title>
 </head>
 <body>
-    <div class="main">
-        <h1>Karin's Homepage</h1>
-        <input type='radio' name='menu' id='topleft-check' class='topleft-check' checked='checked'>
-        <div class='topleft' id='content'>
-            <label class='topleft-label' for='topleft-check' id='check-label'></label>
-            <?php
-                
-                include "pages/home.php";
-            ?>
-        </div>
+    <img src="img/menu/home.png" id="iconHome" class="classIcon"></img>
+    <img src="img/menu/projects.png" id="iconProjects" class="classIcon"></img>
+    <img src="img/menu/websites.png" id="iconWebsites" class="classIcon"></img>
+    <img src="img/menu/about.png" id="iconAbout" class="classIcon"></img>
 
-        <input type='radio' name='menu' id='topright-check' class='topright-check'>
-        <div class='topright'id='content'>
-            <label class='topright-label' for='topright-check' id='check-label'></label>
-            <?php
-                include "pages/project.php";
-            ?>
-        </div>
-
-        <input type='radio' name='menu' id='bottomleft-check' class='bottomleft-check'>
-        <div class='bottomleft'id='content'>
-            <label class='bottomleft-label' for='bottomleft-check' id='check-label'></label>
-            <?php
-                include "pages/websites.php";
-            ?>
-        </div>
-
-        <input type='radio' name='menu' id='bottomright-check' class='bottomright-check'>
-        <div class='bottomright'id='content'>
-            <label class='bottomright-label' for='bottomright-check' id='check-label'></label>
-            <?php
-                include "pages/contact.php";
-            ?>
-        </div>
-
-    </div>
+    <div id="home" class="classPage"><?php include "pages/home.php";?></div>
+    <div id="projects" class="classPage"><?php include "pages/projects.php";?></div>
+    <div id="websites" class="classPage">Websites</div>
+    <div id="about" class="classPage"><?php include "pages/about.php";?></div>
+    
 </body>
 </html>
