@@ -1,0 +1,48 @@
+#projectsGitHub {
+    text-align: center;
+}
+
+#projectsGitHubImg {
+    width: 80px;
+    height: 80px;
+    transition: transform 0.5s;
+}
+
+#projectsGitHubImg:hover {
+    transform: scale(1.2);
+}
+
+#projectsInline {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.projectsContent {
+    text-align: center;
+    margin: 1em;
+    width: 80%;
+}
+
+.projectsButton {
+    background-color: #D0AAF3;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+.projectsButton:hover {
+    transform: scale(1.1);
+}
+
+.projectsButton img {
+    width: 80%;
+}
+
+@media (min-width: 640px) {
+   
+    .projectsContent {
+        width: 40%;
+    }
+
+}

@@ -1,0 +1,33 @@
+#footer {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    font-size: 0.8em;
+}
+
+.footerBlock {
+    display: block;
+    margin: 1em;
+}
+
+.contactSmallIcons {
+    width: 20px;
+    height: 20px;
+}
+
+.contactBigIcons {
+    width: 60px;
+    height: 60px;
+    transition: transform 0.5s;
+}
+
+.contactBigIcons:hover {
+    transform: scale(1.2);
+}
+
+@media (min-width: 640px){
+    #footer {
+        display: flex;
+        text-align: left;
+    }
+}
