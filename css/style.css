@@ -64,11 +64,11 @@ body {
 }
 
 #home {
-    transform: translate(-120%, -120%);
+    transform: translate(0, 0);
 }
 
 #projects {
-    transform: translate(0,0);
+    transform: translate(120%, -120%);
 }
 
 
