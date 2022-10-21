@@ -1,4 +1,3 @@
-
 <h2>Meine Projekte</h2>
 
 <p>In meiner Freizeit programmiere ich sehr gerne.<br>
