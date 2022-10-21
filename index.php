@@ -16,8 +16,7 @@
 
     <div id="home" class="classPage"><?php include "pages/home.php";?></div>
     <div id="projects" class="classPage"><?php include "pages/projects.php";?></div>
-    <div id="websites" class="classPage">Websites</div>
-    <div id="about" class="classPage"><?php include "pages/about.php";?></div>
-    
+    <div id="websites" class="classPage"><?php include "pages/websites.php";?></div>
+    <div id="about" class="classPage"><?php include "pages/about.php";?></div>   
 </body>
 </html>
