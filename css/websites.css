@@ -4,7 +4,9 @@
 
 #websitesContents {
     margin: 1em;
-    display: inline;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .websitesPic {
