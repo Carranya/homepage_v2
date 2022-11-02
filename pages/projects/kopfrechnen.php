@@ -1,5 +1,5 @@
 <div class="projectsContent">
-    <form action="/projects/kopfrechnen/index.php" target="_blank">
+    <form action="/projects/kopfrechnen/index.htm" target="_blank">
         <button class="projectsButton">
             <h2>Kopfrechnen</h2>
             
