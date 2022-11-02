@@ -1,5 +1,5 @@
 <div class="projectsContent">
-    <form action="" target="_blank">
+    <form action="/projects/bombmemory/" target="_blank">
         <button class="projectsButton">
             <h2>Bomb Memory</h2>
             
