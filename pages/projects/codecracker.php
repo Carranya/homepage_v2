@@ -1,5 +1,5 @@
 <div class="projectsContent">
-    <form action="" target="_blank">
+    <form action="/projects/codecracker/" target="_blank">
         <button class="projectsButton">
             <h2>Code Cracker</h2>
             
