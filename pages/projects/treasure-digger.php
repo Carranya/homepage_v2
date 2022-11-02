@@ -1,5 +1,5 @@
 <div class="projectsContent">
-    <form action="/projects/treasure-digger/" target="_blank">
+    <form action="/projects/treasure-digger/index.php" target="_blank">
         <button class="projectsButton">
             <h2>Treasure Digger</h2>
             

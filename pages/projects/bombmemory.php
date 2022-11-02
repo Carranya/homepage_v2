@@ -1,5 +1,5 @@
 <div class="projectsContent">
-    <form action="/projects/bombmemory/" target="_blank">
+    <form action="/projects/bombmemory/index.php" target="_blank">
         <button class="projectsButton">
             <h2>Bomb Memory</h2>
             
