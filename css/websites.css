@@ -19,3 +19,16 @@
 .websitesPic:hover {
     transform: scale(1.2);
 }
+
+@media (min-width: 920px) {
+    #websitesContents {
+        width: 720px;
+    }
+}
+
+@media (min-width: 1320px) {
+    #websitesContents {
+        width: 1020px;
+    }
+}
+
