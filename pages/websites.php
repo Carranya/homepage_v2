@@ -1,4 +1,4 @@
-<h2>Webseiten Vorschläge</h2>
+<h1>Webseiten Vorschläge</h1>
 
 <p>
 Am Liebsten programmiere ich Webseiten.<br>
