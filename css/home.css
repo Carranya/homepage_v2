@@ -1,0 +1,15 @@
+#homeFooter {
+    display: none;
+}
+
+@media (max-height: 700px){
+    #homeFooter {
+        display: unset;
+    }
+}
+
+@media (orientation: portrait) {
+    #homeFooter {
+        display: unset;
+    }
+}
