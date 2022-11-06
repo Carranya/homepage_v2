@@ -1,0 +1,43 @@
+.profileInline {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.profileCodes {
+    display: flex;
+    width: 200px;
+    height: 100px;
+    background-color: #BA55D3;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.profileCodes:hover {
+    opacity: 0.6;
+}
+
+.programExperiences {
+    display: flex;
+    width: 200px;
+    height: 100px;
+    background-color: #DA70D6;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.programExperiences:hover {
+    opacity: 0.6;
+}
+
+@media (min-width: 640px){
+    .profileInline {
+        justify-content: unset;
+    }
+}
