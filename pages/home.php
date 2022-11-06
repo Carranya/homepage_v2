@@ -12,7 +12,7 @@ Ich bin eine Hobby Programmiererin und Webdesignerin und möchte meinen Hobby zu
 Momentan bin ich auf der Suche einer Firma, die bereit ist, 
 mir den Einstieg in die Informatik Branche zu ermöglichen.
 Ich habe zwar bisher noch keine Ausbildung im Bereich Informatik absolviert, 
-aber ich konnte privat durch Selbststudium das Programmieren von HTML, CSS, PHP, MySQL und Javascript aneignen.
+aber ich konnte privat durch Selbststudium das Programmieren von HTML, CSS, PHP, MySQL, Javascript etc. aneignen.
 <br><br>
 In meiner Freizeit programmiere ich sehr gerne und lerne immer neue Techniken und Programmiersprachen kennen.
 Bisher habe ich bereits kleine PHP- und Javascript-Tools sowie auch Webpages programmiert. Einige meine Projekte können Sie in meinen 
