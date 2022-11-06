@@ -2,6 +2,7 @@
     display: block;
     text-align: center;
     justify-content: center;
+    align-items: center;
     font-size: 0.8em;
 }
 
@@ -10,14 +11,19 @@
     margin: 1em;
 }
 
+.footerBlock a {
+    text-decoration: none;
+    color: black;
+}
+
 .contactSmallIcons {
     width: 20px;
     height: 20px;
 }
 
 .contactBigIcons {
-    width: 60px;
-    height: 60px;
+    width: 30px;
+    height: 30px;
     transition: transform 0.5s;
 }
 

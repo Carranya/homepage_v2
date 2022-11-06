@@ -11,6 +11,9 @@
         <p><b>Kontaktinformationen:</b><br>
         <img src="img/icons/phone.png" class="contactSmallIcons"></img>: 078 / 823 67 56<br>
         <img src="img/icons/mail.png" class="contactSmallIcons"></img>: <a href="mailto:m.giang82@gmail.com">m.giang82@gmail.com</a><br><br>
+    </div>
+
+    <div id="socialMedia">
         <a href="https://www.linkedin.com/in/karin-giang-0a6072247"><img src="img/icons/linkedin.png" class="contactBigIcons"></a>
         <a href="https://github.com/Carranya"><img src="img/icons/github.png" class="contactBigIcons"></img></a></p>
     </div>

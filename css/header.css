@@ -1,0 +1,40 @@
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nameBlock {
+    display: unset;
+    align-items: center;
+}
+
+#myName {
+    font-size: 2em;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+#myTitle {
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+@media (max-height: 700px){
+    #nameBlock {
+        display: flex;
+        align-items: center;
+    }
+
+    #headerAddress {
+        display: none;
+    }
+}
+
+@media (orientation: portrait) {
+    #headerAddress {
+        display: none;
+    }
+}
+
