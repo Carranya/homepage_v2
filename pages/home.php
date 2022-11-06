@@ -17,7 +17,7 @@ Näheres dazu finden Sie auf meiner Profil-Seite (Icon rechts unten).
 In meiner Freizeit programmiere ich sehr gerne und lerne immer neue Techniken und Programmiersprachen kennen.
 Bisher habe ich bereits kleine Webtools sowie auch Webpages programmiert.    
 <br><br>
-Ich bin offiziell noch männlich mit der Name Martin.
+In offiziellen Dokumenten verwende ich noch den männlichen Namen Martin.
 Jedoch in der Freizeit werden meine Freunde mich immer mehr als weiblich ansprechen und ansehen.
 Momentan bin ich noch sehr beschäftigt mit der beruflichen Wandel. Sobald ich mit der neuen Branche stabilisiert habe, werde ich mit der Hormontheraphie beginnen.</p>
 

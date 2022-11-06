@@ -42,7 +42,7 @@
     height: 100px;
     background-color: #9932CC;
     border-radius: 10px;
-    text-align: center;
+    justify-content: center;
     align-items: center;
     margin: 0 auto;
     padding: 0 0.3em;

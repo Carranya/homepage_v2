@@ -38,7 +38,7 @@
         <img src="img/karin.jpg" alt="Karin Giang" class="showPic"></img>
         <br><br>
         <div id="cv">
-            <a href="" target="_blank">Lebenslauf herunterladen (PDF)</a>
+            <a href="CV%20Karin%20Giang.pdf" target="_blank">Mein Lebenslauf (PDF)</a>
         </div>
     </div>
 </div>
