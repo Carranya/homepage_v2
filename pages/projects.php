@@ -1,5 +1,5 @@
 <div id="projectsGitHub">
-    <h2>Meine Projekte</h2>
+    <h1>Meine Projekte</h1>
     
     <p>In meiner Freizeit programmiere ich sehr gerne.<br>
     Schon seit ich ein Kind war, interessiere ich mich für das Programmieren.<br>
