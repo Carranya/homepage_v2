@@ -16,7 +16,7 @@
 <div id="projectsInline">
     <?php
         include "pages/projects/bombmemory.php";
-        // include "pages/projects/voki.php";
+        include "pages/projects/voki.php";
         include "pages/projects/kopfrechnen.php";
         // include "pages/projects/slidepuzzle.php";
         include "pages/projects/codecracker.php";
