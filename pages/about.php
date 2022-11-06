@@ -1,4 +1,4 @@
-<h2>Über mich</h2>
+<h1>Über mich</h1>
 
 <div class="centerPic">
     <img src="img/karin.jpg" alt="Karin Giang" class="showPic"></img>
@@ -42,4 +42,3 @@ Momentan bin ich noch sehr beschäftigt mit der beruflichen Wandel. Sobald ich m
 <br><br>
 <h2>Kontaktdaten:</h2>
 <?php include "pages/footer.php"; ?>
-
