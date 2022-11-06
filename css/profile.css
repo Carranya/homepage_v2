@@ -36,8 +36,38 @@
     opacity: 0.6;
 }
 
+#cv {
+    display: flex;
+    width: 250px;
+    height: 100px;
+    background-color: #9932CC;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0 0.3em;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.5s;
+}
+
+#cv a {
+    text-decoration: none;
+    color: black;
+}
+
+#cv:hover {
+    opacity: 0.6;
+    transform: scale(1.2);
+}
+
 @media (min-width: 640px){
     .profileInline {
         justify-content: unset;
+        width: 680px;
+    }
+
+    #profileLayout {
+        display: flex;
+        justify-content: center;
     }
 }
