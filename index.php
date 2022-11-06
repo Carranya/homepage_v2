@@ -13,10 +13,12 @@
     <img src="img/menu/projects.png" id="iconProjects" class="classIcon"></img>
     <img src="img/menu/websites.png" id="iconWebsites" class="classIcon"></img>
     <img src="img/menu/about.png" id="iconAbout" class="classIcon"></img>
-
-    <div id="home" class="classPage"><?php include "pages/home.php";?></div>
-    <div id="projects" class="classPage"><?php include "pages/projects.php";?></div>
-    <div id="websites" class="classPage"><?php include "pages/websites.php";?></div>
-    <div id="about" class="classPage"><?php include "pages/about.php";?></div>   
+    
+    <div class="centerPage">
+        <div id="home" class="classPage"><?php include "pages/profile.php";?></div>
+        <div id="projects" class="classPage"><?php include "pages/projects.php";?></div>
+        <div id="websites" class="classPage"><?php include "pages/websites.php";?></div>
+        <div id="about" class="classPage"><?php include "pages/about.php";?></div>   
+    </div>
 </body>
 </html>
