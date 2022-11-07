@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <script type="text/javascript" src="menu.js"></script>
-    <title>Karin's Homepage</title>
+    <title>Karin Giang - Webentwicklerin</title>
 </head>
 <body>
     <img src="img/menu/home.png" id="iconHome" class="classIcon" title="Home"></img>
