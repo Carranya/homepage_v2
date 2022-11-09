@@ -4,7 +4,7 @@
 Am Liebsten programmiere ich Webseiten und Webtools.<br>
 Es ist auch mein Hobby, immer wieder neue Ideen für Webseiten zu entwickeln und diese auf dem Bildschirm zu bringen.</p>
 <br>
-<p>Alle Codes von meiner Webseiten Vorschlägen sind in meiner <a href="https://github.com/Carranya"><img src="img/icons/github.png" class="contactBigIcons"></img></a>-Seite</b> einsehbar.</p>
+<p>Alle Codes von meiner Webseiten Vorschlägen sind in meiner <a href="https://github.com/Carranya" target="_blank"><img src="img/icons/github.png" id="websitesLogo"></img></a>-Seite</b> einsehbar.</p>
 <div class="centerPage">
 <div id="websitesContents">
     <p>
