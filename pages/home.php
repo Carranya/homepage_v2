@@ -1,6 +1,6 @@
 <h1>Herzlich Willkommen!</h1>
 <div class="centerPic">
-    <img src="img/karin2.jpg" alt="Karin Giang"  class="showPic"></img>
+    <img src="img/karin2.jpg" alt="Karin Giang"  class="showPic">
 </div>
 
 <p>
