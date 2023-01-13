@@ -9,7 +9,7 @@
         <h2>Programmiersprachen</h2>
         <div class="profileInline">
             <?php
-                $codesLang = array("HTML5", "CSS3", "PHP8.1", "Javascript", "MySQL", "Tailwind CSS", "Twig", "Perl");
+                $codesLang = array("HTML5", "CSS3", "PHP8.1", "Javascript", "MySQL", "Tailwind CSS", "Symfony", "Twig", "Perl");
                 for($i=0; $i<count($codesLang); $i++){
                     echo "<div class='profileCodes'>";
                     echo "<p>" . $codesLang[$i]. "</p>";
@@ -22,7 +22,7 @@
         <h2>Software Kenntnisse</h2>
         <div class="profileInline">
             <?php
-                $usePrograms = array("Visual Code Studio", "Ubuntu", "Git");
+                $usePrograms = array("Visual Code Studio", "Ubuntu", "Git", "Apache");
                 
                 for($i=0; $i<count($usePrograms); $i++){
                     echo "<div class='programExperiences'>";
@@ -38,7 +38,7 @@
         <img src="img/karin.jpg" alt="Karin Giang" class="showPic"></img>
         <br><br>
         <div id="cv">
-            <a href="CV%20Karin%20Giang.pdf" target="_blank">Mein Lebenslauf (PDF)</a>
+            <a href="CV_Karin_Giang.pdf" target="_blank">Mein Lebenslauf (PDF)</a>
         </div>
     </div>
 </div>
