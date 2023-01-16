@@ -1,4 +1,4 @@
-<h1>Webseiten Vorschläge</h1>
+<h1>Webseiten Vorschlägen</h1>
 
 <p>
 Am Liebsten programmiere ich Webseiten und Webtools.<br>
