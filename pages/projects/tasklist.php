@@ -1,5 +1,5 @@
 <div class="projectsContent">
-    <form action="/projects/tasklist/index.php" target="_blank">
+    <form action="/projects/tasklist/public/index.php" target="_blank">
         <button class="projectsButton">
             <h2>Tasklist</h2>
             
