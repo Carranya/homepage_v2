@@ -9,6 +9,7 @@
 <h3>Meine aktuellen Projekte:</h3>
 <div id="projectsInline">
     <?php
+        include "pages/projects/kitchenwiz.php";
         include "pages/projects/tasklist.php";
         include "pages/projects/bombmemory.php";
         include "pages/projects/voki.php";

@@ -7,7 +7,6 @@
 
             <p>
             Eine klassische Aufgabenliste für Desktop-PCs, Notebooks und Handys.<br>
-            Einfache Installation. Ganz ohne Datenbanken.<br>
             (Hinweis: Dieses ist eine Demo-Version. Die Original Version ist in meinem Git-Hub Konto verfügbar.)<br>
             </p>
         </button>
