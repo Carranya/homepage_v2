@@ -1,7 +1,7 @@
 <div class="projectsContent">
     <form action="/projects/kitchenwiz/index.php" target="_blank">
         <button class="projectsButton">
-            <h2>Tasklist</h2>
+            <h2>Kitchenwiz</h2>
             
             <img src="img/screenshots/kitchenwiz.jpg"></img>
 
