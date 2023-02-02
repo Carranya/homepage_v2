@@ -1,5 +1,5 @@
 <div class="projectsContent">
-    <form action="/projects/kitchenwiz/index.php" target="_blank">
+    <form action="https://karingiang.ch/" target="_blank">
         <button class="projectsButton">
             <h2>Kitchenwiz</h2>
             

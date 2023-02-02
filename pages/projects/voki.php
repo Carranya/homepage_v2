@@ -1,5 +1,5 @@
 <div class="projectsContent">
-    <form action="/projects/voki/index.php" target="_blank">
+    <form action="https://karingiang.ch/" target="_blank">
         <button class="projectsButton">
             <h2>Voki</h2>
             
